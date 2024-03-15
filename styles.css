@@ -1,0 +1,29 @@
+:root{
+
+}
+.ProfilePicture{
+    width: 150px;
+    border-radius: 15px;
+}
+.main{
+    margin: 20px;
+    cursor: help;
+}
+.card{
+    background: khaki;
+    margin: 0 auto;
+    width: 600px;
+    padding: 100px 20px;
+    display: flex;
+    font-family: Arial, Verdana, sans-serif;
+    align-content: end;
+    border-radius: 15px;
+    justify-content: space-around;
+    border-bottom: 10px solid #222222;
+}
+.info-text{
+    text-align: center;
+    color: #222222;
+}
+.outline{
+}
